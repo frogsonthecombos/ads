@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Classroom</title>
 </head>
 
@@ -11,7 +11,7 @@
   <h1>Classroom</h1>
 
   <!-- Google AdSense -->
-  <script async
+  <script async="async"
     src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5735920394950369"
     crossorigin="anonymous"></script>
 
